@@ -1,0 +1,24 @@
+{
+  "name": "starter_template",
+  "version": "0.2",
+  "homepage": "https://github.com/mitchthorson/front-end-starter-template",
+  "authors": [
+    "mitchthorson <mitchell@mitchellryanthorson.com>"
+  ],
+  "description": "A simple HTML 5 starter template",
+  "main": "index.html",
+  "keywords": [
+    "html5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3"
+  }
+}

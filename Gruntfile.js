@@ -5,7 +5,7 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     uglify: {
       build: {
-        src: ['js/global/*.js', '!js/global/global.js', 'js/global/global.js'],
+        src: ['bower_components/jquery/jquery.js', 'js/global/*.js', '!js/global/global.js', 'js/global/global.js'],
         dest: 'js/global.min.js'
       }
     },
