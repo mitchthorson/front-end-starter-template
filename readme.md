@@ -3,7 +3,7 @@
 An HTML5 Starter template by [Mitchell Thorson](http://mitchellryanthorson.com) for quick-starting simple front-end web projects.
 There are a million good options out there for starter-templates, but I found myself repeating steps to get up and running and decided to make my own starter repo.
 
-##Version 0.1
+##Version 0.2.0
 There are quite a few things I'd like to add to this as I go, but this is a start.
 
 ## Getting Started
