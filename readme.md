@@ -11,10 +11,11 @@ First, you'll need:
 * Ruby
 * Compass (`gem install compass`) 
 * [Node.js](http://nodejs.org/)
-* Grunt.js (`gem install -g grunt-cli`)
+* Bower (`npm install -g bower`)
+* Grunt.js (`npm install -g grunt-cli`)
 
 Then:
-run `npm install` from root directory and you're set.
+run `npm install` & `bower install`from root directory and you're set.
 
 ## Compiling SCSS and JS Files
 Run `grunt` for one-time compiling or `grunt watch` to watch changes.
